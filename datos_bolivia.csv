@@ -1,0 +1,1001 @@
+ID,Ciudad,NSE,Educacion,Genero,Estatura,Salario
+1,Cochabamba,Bajo,Postgrado,Otro,150,1074
+2,Cochabamba,Medio,Secundaria,Masculino,179,4366
+3,Tarija,Medio,Universitario,Masculino,156,6594
+4,La Paz,Bajo,Universitario,Masculino,154,2987
+5,Trinidad,Medio,Secundaria,Otro,191,3028
+6,Tarija,Alto,Postgrado,Femenino,176,12775
+7,Santa Cruz,Medio,Postgrado,Masculino,161,3422
+8,Trinidad,Medio,Secundaria,Otro,192,5639
+9,La Paz,Bajo,Técnico,Otro,185,2822
+10,Trinidad,Medio,Secundaria,Femenino,177,3933
+11,Sucre,Alto,Universitario,Femenino,183,7555
+12,Tarija,Alto,Universitario,Otro,172,14670
+13,Trinidad,Bajo,Secundaria,Masculino,175,1469
+14,La Paz,Medio,Técnico,Otro,155,3554
+15,Santa Cruz,Medio,Universitario,Otro,160,5129
+16,El Alto,Alto,Primaria,Femenino,196,7548
+17,La Paz,Alto,Universitario,Otro,198,13769
+18,La Paz,Bajo,Secundaria,Masculino,156,1532
+19,Trinidad,Medio,Secundaria,Otro,161,5566
+20,La Paz,Alto,Universitario,Femenino,151,12485
+21,Cochabamba,Alto,Secundaria,Femenino,165,10900
+22,Sucre,Medio,Universitario,Otro,192,4222
+23,Sucre,Bajo,Técnico,Femenino,159,1193
+24,El Alto,Bajo,Universitario,Masculino,178,2385
+25,El Alto,Medio,Secundaria,Masculino,193,4405
+26,Cobija,Medio,Secundaria,Femenino,174,3078
+27,Potosí,Alto,Universitario,Masculino,168,7634
+28,La Paz,Medio,Secundaria,Femenino,169,3006
+29,Oruro,Medio,Técnico,Femenino,163,6405
+30,Cobija,Alto,Universitario,Femenino,187,13246
+31,Trinidad,Medio,Universitario,Femenino,199,4083
+32,Sucre,Bajo,Secundaria,Femenino,177,1139
+33,Cobija,Medio,Postgrado,Otro,200,5717
+34,El Alto,Medio,Secundaria,Otro,157,6912
+35,Oruro,Alto,Secundaria,Masculino,189,10150
+36,Sucre,Alto,Postgrado,Masculino,154,12751
+37,La Paz,Medio,Secundaria,Femenino,177,4877
+38,Cobija,Alto,Universitario,Masculino,198,13927
+39,Santa Cruz,Bajo,Secundaria,Femenino,194,1464
+40,Oruro,Medio,Técnico,Femenino,190,4617
+41,Cochabamba,Medio,Secundaria,Femenino,183,4215
+42,Trinidad,Medio,Técnico,Otro,168,5658
+43,Oruro,Bajo,Secundaria,Masculino,157,1396
+44,Sucre,Medio,Secundaria,Masculino,168,3657
+45,Sucre,Alto,Secundaria,Femenino,192,14877
+46,Trinidad,Medio,Universitario,Femenino,172,3563
+47,Potosí,Alto,Técnico,Masculino,156,14895
+48,Tarija,Alto,Secundaria,Masculino,194,10085
+49,Cobija,Bajo,Secundaria,Otro,191,2512
+50,El Alto,Bajo,Universitario,Masculino,176,1710
+51,Trinidad,Bajo,Primaria,Masculino,178,1722
+52,Trinidad,Medio,Postgrado,Otro,184,4483
+53,El Alto,Medio,Secundaria,Femenino,190,3730
+54,Sucre,Medio,Técnico,Femenino,199,3474
+55,Sucre,Bajo,Universitario,Femenino,162,2349
+56,Santa Cruz,Medio,Secundaria,Femenino,164,5511
+57,Santa Cruz,Medio,Postgrado,Masculino,160,3020
+58,Cobija,Medio,Secundaria,Otro,178,3420
+59,El Alto,Medio,Secundaria,Masculino,160,5148
+60,Santa Cruz,Medio,Postgrado,Femenino,162,5135
+61,Potosí,Medio,Secundaria,Masculino,160,4673
+62,Cobija,Medio,Universitario,Femenino,155,6480
+63,La Paz,Bajo,Técnico,Femenino,176,2099
+64,Trinidad,Medio,Universitario,Femenino,198,3839
+65,Tarija,Alto,Técnico,Otro,154,8119
+66,Santa Cruz,Bajo,Secundaria,Masculino,167,2528
+67,El Alto,Bajo,Secundaria,Otro,157,2892
+68,El Alto,Bajo,Secundaria,Masculino,175,2996
+69,Oruro,Alto,Universitario,Otro,189,11106
+70,Trinidad,Bajo,Postgrado,Masculino,174,2226
+71,Cochabamba,Medio,Técnico,Femenino,172,5333
+72,Tarija,Medio,Técnico,Otro,157,4241
+73,La Paz,Alto,Postgrado,Femenino,197,7434
+74,Santa Cruz,Bajo,Universitario,Femenino,155,1831
+75,Cochabamba,Medio,Técnico,Masculino,163,3275
+76,Oruro,Bajo,Primaria,Otro,168,2018
+77,Potosí,Bajo,Postgrado,Femenino,180,1406
+78,Tarija,Medio,Secundaria,Otro,180,6923
+79,Potosí,Alto,Universitario,Otro,176,8018
+80,La Paz,Bajo,Primaria,Femenino,191,2215
+81,Sucre,Alto,Universitario,Otro,178,9215
+82,Tarija,Medio,Universitario,Otro,184,4251
+83,Tarija,Bajo,Universitario,Femenino,163,1568
+84,Santa Cruz,Medio,Primaria,Otro,155,6164
+85,La Paz,Medio,Técnico,Femenino,150,4410
+86,Oruro,Alto,Universitario,Otro,152,14198
+87,Tarija,Medio,Universitario,Masculino,159,6561
+88,Cochabamba,Alto,Universitario,Otro,183,13274
+89,La Paz,Bajo,Universitario,Otro,152,2019
+90,La Paz,Medio,Universitario,Masculino,189,5178
+91,Cobija,Medio,Postgrado,Otro,160,3530
+92,Cochabamba,Medio,Universitario,Otro,189,6539
+93,Sucre,Bajo,Secundaria,Otro,193,1065
+94,Sucre,Medio,Técnico,Masculino,154,5909
+95,Sucre,Bajo,Postgrado,Masculino,174,2625
+96,Sucre,Medio,Primaria,Masculino,153,5916
+97,Cochabamba,Bajo,Primaria,Femenino,169,2194
+98,Trinidad,Medio,Postgrado,Femenino,157,6388
+99,Cobija,Bajo,Universitario,Masculino,173,1439
+100,Potosí,Medio,Secundaria,Masculino,173,3631
+101,El Alto,Bajo,Técnico,Masculino,151,2861
+102,Cochabamba,Bajo,Universitario,Otro,158,1259
+103,El Alto,Medio,Universitario,Femenino,168,5275
+104,Trinidad,Bajo,Universitario,Masculino,154,1695
+105,Cobija,Medio,Secundaria,Femenino,174,6958
+106,Cochabamba,Medio,Secundaria,Masculino,188,6757
+107,Potosí,Medio,Técnico,Masculino,157,6184
+108,Cobija,Medio,Postgrado,Otro,175,6595
+109,Oruro,Medio,Primaria,Otro,175,3762
+110,Santa Cruz,Medio,Técnico,Femenino,183,3399
+111,Santa Cruz,Alto,Universitario,Otro,180,8703
+112,Cochabamba,Alto,Técnico,Otro,173,8571
+113,Santa Cruz,Medio,Técnico,Otro,178,3807
+114,El Alto,Alto,Universitario,Otro,157,10123
+115,Cochabamba,Bajo,Secundaria,Otro,167,2659
+116,Santa Cruz,Alto,Secundaria,Masculino,171,12167
+117,Sucre,Bajo,Técnico,Otro,163,1578
+118,La Paz,Bajo,Universitario,Femenino,200,2972
+119,Trinidad,Alto,Secundaria,Femenino,189,9828
+120,Oruro,Medio,Universitario,Femenino,173,5284
+121,La Paz,Medio,Técnico,Masculino,162,4915
+122,Tarija,Medio,Universitario,Masculino,160,3554
+123,Sucre,Bajo,Universitario,Femenino,172,2027
+124,La Paz,Medio,Primaria,Femenino,159,3323
+125,El Alto,Bajo,Postgrado,Otro,165,2254
+126,Cochabamba,Medio,Técnico,Masculino,157,3301
+127,Cochabamba,Medio,Universitario,Otro,177,6364
+128,La Paz,Medio,Técnico,Masculino,199,4459
+129,La Paz,Medio,Técnico,Otro,193,6954
+130,La Paz,Alto,Primaria,Femenino,158,7306
+131,El Alto,Alto,Universitario,Otro,188,11133
+132,La Paz,Medio,Secundaria,Masculino,189,6594
+133,Tarija,Alto,Universitario,Masculino,155,7751
+134,Santa Cruz,Alto,Universitario,Otro,190,14425
+135,Tarija,Bajo,Universitario,Otro,174,2889
+136,Santa Cruz,Medio,Universitario,Masculino,166,3474
+137,Cochabamba,Medio,Secundaria,Femenino,178,6159
+138,Trinidad,Bajo,Secundaria,Femenino,199,2021
+139,Cobija,Bajo,Secundaria,Femenino,152,1110
+140,Cobija,Medio,Técnico,Otro,160,4815
+141,Oruro,Bajo,Universitario,Masculino,192,2223
+142,La Paz,Medio,Primaria,Femenino,158,6965
+143,Oruro,Medio,Técnico,Femenino,172,3332
+144,Tarija,Medio,Universitario,Femenino,172,4049
+145,Sucre,Bajo,Universitario,Otro,163,2687
+146,Cochabamba,Medio,Secundaria,Femenino,177,6596
+147,Cochabamba,Alto,Secundaria,Masculino,173,7494
+148,La Paz,Medio,Secundaria,Otro,173,4107
+149,Potosí,Bajo,Primaria,Otro,154,1970
+150,Cochabamba,Medio,Postgrado,Otro,187,4699
+151,Tarija,Bajo,Secundaria,Otro,174,2612
+152,Oruro,Medio,Postgrado,Otro,172,5613
+153,Oruro,Alto,Secundaria,Masculino,169,10121
+154,La Paz,Alto,Postgrado,Masculino,168,12537
+155,Potosí,Medio,Técnico,Masculino,188,6357
+156,Trinidad,Bajo,Universitario,Femenino,187,1644
+157,Cobija,Alto,Universitario,Otro,161,14896
+158,Santa Cruz,Medio,Universitario,Femenino,183,6650
+159,Sucre,Medio,Técnico,Otro,194,5412
+160,Cochabamba,Bajo,Primaria,Otro,179,2245
+161,El Alto,Medio,Postgrado,Otro,186,5453
+162,Santa Cruz,Bajo,Universitario,Femenino,198,1416
+163,Trinidad,Alto,Técnico,Femenino,150,10729
+164,Cochabamba,Medio,Primaria,Otro,160,6742
+165,Cochabamba,Medio,Secundaria,Femenino,190,5417
+166,Tarija,Bajo,Universitario,Masculino,181,1351
+167,Sucre,Bajo,Universitario,Otro,178,1580
+168,Tarija,Medio,Secundaria,Femenino,177,4833
+169,Cochabamba,Medio,Secundaria,Masculino,171,3627
+170,Cochabamba,Alto,Secundaria,Femenino,153,14621
+171,Cobija,Bajo,Universitario,Masculino,181,1103
+172,Santa Cruz,Medio,Técnico,Femenino,162,5459
+173,Cochabamba,Alto,Secundaria,Masculino,154,14948
+174,El Alto,Medio,Secundaria,Femenino,150,3420
+175,Santa Cruz,Medio,Técnico,Femenino,171,5214
+176,Cochabamba,Bajo,Primaria,Masculino,162,1175
+177,Trinidad,Bajo,Técnico,Otro,192,2665
+178,El Alto,Bajo,Secundaria,Femenino,189,1164
+179,Potosí,Medio,Técnico,Masculino,168,4254
+180,Trinidad,Alto,Universitario,Masculino,183,7614
+181,Oruro,Alto,Secundaria,Femenino,183,12310
+182,Potosí,Bajo,Universitario,Femenino,185,1851
+183,Potosí,Alto,Primaria,Otro,184,11623
+184,Oruro,Bajo,Universitario,Otro,153,2472
+185,Potosí,Medio,Técnico,Masculino,171,3513
+186,Trinidad,Bajo,Secundaria,Masculino,170,2428
+187,Cobija,Medio,Postgrado,Femenino,150,6089
+188,Cochabamba,Alto,Universitario,Otro,178,9433
+189,Oruro,Alto,Técnico,Masculino,184,10058
+190,Potosí,Medio,Primaria,Femenino,191,4447
+191,La Paz,Bajo,Secundaria,Masculino,155,2674
+192,Oruro,Medio,Técnico,Otro,150,6270
+193,Cochabamba,Bajo,Secundaria,Masculino,175,2273
+194,Sucre,Medio,Universitario,Femenino,181,5976
+195,El Alto,Bajo,Técnico,Masculino,156,1902
+196,Tarija,Bajo,Secundaria,Otro,195,2237
+197,La Paz,Medio,Secundaria,Femenino,164,5912
+198,El Alto,Alto,Secundaria,Masculino,194,7583
+199,Oruro,Bajo,Secundaria,Otro,199,2867
+200,Cochabamba,Medio,Secundaria,Masculino,192,6773
+201,El Alto,Medio,Secundaria,Femenino,182,6197
+202,Sucre,Bajo,Secundaria,Masculino,166,2980
+203,Potosí,Bajo,Primaria,Femenino,168,1674
+204,Tarija,Bajo,Primaria,Masculino,158,1503
+205,Trinidad,Bajo,Técnico,Masculino,165,1991
+206,Trinidad,Alto,Secundaria,Otro,177,9147
+207,Santa Cruz,Alto,Universitario,Femenino,181,10365
+208,Sucre,Medio,Técnico,Femenino,196,5451
+209,Sucre,Bajo,Universitario,Femenino,172,2014
+210,Oruro,Medio,Primaria,Masculino,178,3710
+211,Trinidad,Alto,Secundaria,Femenino,153,13330
+212,Sucre,Medio,Primaria,Masculino,181,6387
+213,Sucre,Bajo,Universitario,Otro,185,2124
+214,Oruro,Bajo,Primaria,Masculino,175,1430
+215,Oruro,Bajo,Primaria,Otro,174,2910
+216,Santa Cruz,Medio,Secundaria,Masculino,175,5409
+217,El Alto,Medio,Universitario,Masculino,188,6795
+218,Potosí,Alto,Primaria,Otro,185,10659
+219,La Paz,Bajo,Secundaria,Masculino,159,1753
+220,Oruro,Bajo,Primaria,Masculino,198,2291
+221,Cobija,Medio,Secundaria,Otro,150,6309
+222,El Alto,Medio,Universitario,Femenino,172,6049
+223,Sucre,Bajo,Universitario,Otro,164,1724
+224,Tarija,Medio,Técnico,Otro,152,3949
+225,Sucre,Bajo,Técnico,Otro,193,1433
+226,Sucre,Bajo,Postgrado,Femenino,169,1961
+227,Cochabamba,Alto,Técnico,Masculino,162,11375
+228,Oruro,Medio,Secundaria,Otro,193,5904
+229,El Alto,Medio,Universitario,Otro,192,6311
+230,El Alto,Bajo,Postgrado,Femenino,185,2355
+231,Tarija,Alto,Universitario,Otro,182,13677
+232,Sucre,Medio,Postgrado,Masculino,194,4149
+233,Sucre,Bajo,Postgrado,Femenino,177,2194
+234,Tarija,Medio,Secundaria,Femenino,165,3276
+235,Oruro,Medio,Técnico,Femenino,170,6054
+236,Potosí,Bajo,Postgrado,Otro,181,1131
+237,Tarija,Medio,Secundaria,Otro,198,4218
+238,Potosí,Alto,Secundaria,Otro,158,12239
+239,Cobija,Bajo,Universitario,Femenino,159,1728
+240,La Paz,Alto,Secundaria,Masculino,159,9998
+241,Potosí,Bajo,Secundaria,Masculino,190,2467
+242,Trinidad,Alto,Técnico,Masculino,175,9816
+243,Potosí,Bajo,Primaria,Otro,160,2273
+244,Cochabamba,Bajo,Universitario,Masculino,195,1013
+245,Sucre,Medio,Técnico,Otro,160,5689
+246,Cobija,Bajo,Universitario,Femenino,189,1638
+247,El Alto,Medio,Postgrado,Masculino,160,6874
+248,Trinidad,Medio,Primaria,Femenino,165,6234
+249,Cobija,Medio,Universitario,Otro,182,5301
+250,Cobija,Alto,Secundaria,Otro,190,11009
+251,Trinidad,Bajo,Secundaria,Otro,171,1503
+252,La Paz,Bajo,Universitario,Masculino,160,2985
+253,Cobija,Medio,Universitario,Femenino,178,3925
+254,Sucre,Bajo,Primaria,Masculino,192,2108
+255,Santa Cruz,Medio,Universitario,Masculino,180,3964
+256,Trinidad,Medio,Universitario,Masculino,156,5447
+257,La Paz,Medio,Universitario,Otro,162,3357
+258,Cochabamba,Bajo,Primaria,Masculino,189,1672
+259,Potosí,Medio,Postgrado,Masculino,193,6161
+260,Santa Cruz,Medio,Secundaria,Femenino,179,5209
+261,Tarija,Medio,Secundaria,Femenino,197,6873
+262,Sucre,Alto,Secundaria,Masculino,189,14899
+263,Potosí,Bajo,Secundaria,Otro,199,1001
+264,Potosí,Bajo,Secundaria,Femenino,167,2819
+265,Trinidad,Alto,Secundaria,Otro,171,14820
+266,Santa Cruz,Medio,Primaria,Femenino,156,4312
+267,Cochabamba,Bajo,Universitario,Masculino,157,1735
+268,Santa Cruz,Bajo,Secundaria,Masculino,161,1441
+269,Cochabamba,Alto,Secundaria,Femenino,155,10025
+270,La Paz,Medio,Secundaria,Masculino,193,5567
+271,Tarija,Medio,Universitario,Femenino,175,5885
+272,Oruro,Alto,Universitario,Femenino,196,11022
+273,Tarija,Bajo,Técnico,Femenino,187,1048
+274,Oruro,Alto,Secundaria,Masculino,185,14515
+275,Trinidad,Medio,Primaria,Otro,175,5636
+276,Cochabamba,Alto,Universitario,Femenino,178,12253
+277,Santa Cruz,Medio,Universitario,Otro,183,5023
+278,Cobija,Medio,Secundaria,Otro,174,4421
+279,Potosí,Medio,Universitario,Femenino,190,6498
+280,Sucre,Bajo,Secundaria,Masculino,165,1008
+281,Cobija,Bajo,Primaria,Otro,186,1248
+282,Tarija,Bajo,Universitario,Otro,193,2739
+283,Oruro,Medio,Secundaria,Femenino,155,4871
+284,Sucre,Medio,Universitario,Otro,162,6786
+285,Oruro,Medio,Secundaria,Masculino,151,4506
+286,Sucre,Medio,Técnico,Otro,195,3814
+287,Trinidad,Alto,Primaria,Masculino,174,14186
+288,Tarija,Medio,Universitario,Masculino,154,5241
+289,Santa Cruz,Medio,Técnico,Femenino,150,4109
+290,Trinidad,Medio,Universitario,Otro,169,4472
+291,Trinidad,Alto,Técnico,Otro,156,7418
+292,Cochabamba,Alto,Secundaria,Masculino,177,7834
+293,Cobija,Bajo,Universitario,Femenino,158,2468
+294,El Alto,Alto,Universitario,Otro,196,13930
+295,Potosí,Medio,Universitario,Masculino,171,6018
+296,Tarija,Bajo,Secundaria,Masculino,174,1917
+297,Potosí,Bajo,Técnico,Femenino,194,2609
+298,La Paz,Bajo,Universitario,Femenino,190,2836
+299,Sucre,Medio,Técnico,Masculino,169,3528
+300,Potosí,Bajo,Técnico,Otro,162,1467
+301,Oruro,Medio,Universitario,Masculino,173,3282
+302,Santa Cruz,Alto,Postgrado,Masculino,166,13211
+303,El Alto,Medio,Primaria,Masculino,177,5059
+304,Cochabamba,Bajo,Técnico,Femenino,168,2237
+305,La Paz,Alto,Secundaria,Femenino,185,7033
+306,La Paz,Bajo,Secundaria,Femenino,158,2226
+307,Santa Cruz,Medio,Técnico,Otro,192,6823
+308,Tarija,Medio,Universitario,Femenino,157,4162
+309,Sucre,Medio,Universitario,Femenino,161,6925
+310,Trinidad,Medio,Secundaria,Masculino,181,5603
+311,Oruro,Bajo,Técnico,Otro,170,2965
+312,Cobija,Bajo,Universitario,Masculino,157,2736
+313,Cochabamba,Bajo,Universitario,Otro,193,1245
+314,Potosí,Bajo,Universitario,Masculino,180,1562
+315,El Alto,Medio,Universitario,Otro,169,4727
+316,Cochabamba,Medio,Técnico,Otro,200,4386
+317,Tarija,Bajo,Universitario,Masculino,200,1189
+318,Trinidad,Medio,Primaria,Femenino,179,6430
+319,Oruro,Bajo,Secundaria,Otro,184,1680
+320,Cochabamba,Alto,Secundaria,Masculino,195,7009
+321,Oruro,Medio,Primaria,Otro,186,4159
+322,Sucre,Medio,Técnico,Masculino,172,5218
+323,Santa Cruz,Bajo,Universitario,Femenino,152,1924
+324,Trinidad,Bajo,Técnico,Masculino,168,2883
+325,Trinidad,Medio,Secundaria,Femenino,190,5278
+326,Trinidad,Bajo,Secundaria,Femenino,166,1846
+327,Tarija,Medio,Primaria,Otro,187,6248
+328,Potosí,Medio,Técnico,Masculino,156,6242
+329,Cobija,Bajo,Primaria,Femenino,185,1232
+330,Sucre,Medio,Secundaria,Femenino,192,6810
+331,Santa Cruz,Medio,Secundaria,Femenino,181,3088
+332,Oruro,Bajo,Postgrado,Femenino,184,2285
+333,Santa Cruz,Alto,Secundaria,Otro,165,14207
+334,Santa Cruz,Medio,Universitario,Femenino,174,3744
+335,Trinidad,Alto,Técnico,Femenino,191,10536
+336,La Paz,Medio,Secundaria,Femenino,194,4424
+337,Potosí,Medio,Postgrado,Otro,166,3135
+338,La Paz,Medio,Técnico,Otro,156,3588
+339,La Paz,Medio,Secundaria,Masculino,185,5653
+340,Oruro,Bajo,Secundaria,Masculino,182,2073
+341,Cochabamba,Bajo,Secundaria,Femenino,152,2669
+342,Santa Cruz,Medio,Técnico,Otro,182,5786
+343,La Paz,Medio,Primaria,Masculino,150,3513
+344,Oruro,Medio,Universitario,Masculino,174,3974
+345,Tarija,Bajo,Técnico,Masculino,199,1044
+346,Tarija,Medio,Técnico,Otro,184,3738
+347,El Alto,Bajo,Técnico,Otro,196,1966
+348,Oruro,Medio,Técnico,Masculino,173,5780
+349,La Paz,Medio,Secundaria,Masculino,179,4950
+350,Potosí,Bajo,Universitario,Femenino,189,2490
+351,Oruro,Alto,Primaria,Femenino,185,11586
+352,Cobija,Medio,Postgrado,Masculino,197,5292
+353,Sucre,Medio,Secundaria,Femenino,163,6058
+354,Trinidad,Medio,Postgrado,Otro,194,6136
+355,Cobija,Bajo,Postgrado,Otro,179,1647
+356,Oruro,Medio,Secundaria,Otro,191,4573
+357,Santa Cruz,Medio,Técnico,Masculino,198,3299
+358,Cobija,Bajo,Primaria,Femenino,161,1880
+359,Cobija,Medio,Secundaria,Masculino,152,6624
+360,Sucre,Medio,Secundaria,Otro,195,5411
+361,Potosí,Medio,Primaria,Otro,192,3088
+362,Sucre,Medio,Universitario,Femenino,183,4358
+363,El Alto,Bajo,Secundaria,Masculino,186,2125
+364,La Paz,Alto,Secundaria,Masculino,157,14094
+365,Santa Cruz,Bajo,Universitario,Femenino,155,2990
+366,Cochabamba,Alto,Primaria,Femenino,153,14422
+367,La Paz,Medio,Universitario,Femenino,158,6923
+368,La Paz,Bajo,Secundaria,Masculino,158,2868
+369,Tarija,Bajo,Técnico,Femenino,195,2170
+370,Trinidad,Bajo,Técnico,Femenino,194,2535
+371,El Alto,Medio,Técnico,Otro,168,4858
+372,Trinidad,Bajo,Secundaria,Femenino,180,2435
+373,Trinidad,Alto,Universitario,Otro,150,11601
+374,Cobija,Medio,Secundaria,Otro,191,6209
+375,Oruro,Medio,Primaria,Femenino,162,3745
+376,Cochabamba,Medio,Universitario,Femenino,155,4042
+377,La Paz,Medio,Universitario,Femenino,157,6376
+378,Trinidad,Alto,Secundaria,Masculino,199,8120
+379,Potosí,Medio,Secundaria,Femenino,190,6895
+380,Sucre,Medio,Universitario,Otro,192,5295
+381,La Paz,Bajo,Universitario,Masculino,200,2794
+382,La Paz,Medio,Primaria,Otro,167,5195
+383,Cobija,Medio,Universitario,Otro,163,6692
+384,Sucre,Medio,Secundaria,Femenino,195,3937
+385,Santa Cruz,Medio,Universitario,Masculino,196,5515
+386,Cochabamba,Bajo,Secundaria,Femenino,167,1743
+387,Santa Cruz,Bajo,Primaria,Otro,177,1551
+388,La Paz,Medio,Postgrado,Otro,185,6656
+389,Tarija,Alto,Universitario,Otro,159,14723
+390,El Alto,Medio,Primaria,Otro,194,5788
+391,Cochabamba,Medio,Postgrado,Femenino,188,4568
+392,Oruro,Medio,Universitario,Masculino,157,5514
+393,Oruro,Alto,Universitario,Masculino,198,9878
+394,El Alto,Alto,Universitario,Masculino,194,12269
+395,Cobija,Bajo,Primaria,Otro,158,2856
+396,Cobija,Bajo,Técnico,Masculino,189,1903
+397,Trinidad,Medio,Secundaria,Otro,175,6519
+398,Cochabamba,Bajo,Postgrado,Otro,194,1513
+399,Cobija,Bajo,Postgrado,Masculino,175,2129
+400,Santa Cruz,Alto,Secundaria,Otro,160,11157
+401,El Alto,Medio,Secundaria,Femenino,162,6136
+402,Cochabamba,Bajo,Primaria,Femenino,184,1895
+403,Cobija,Medio,Primaria,Femenino,174,4083
+404,El Alto,Bajo,Universitario,Femenino,185,1323
+405,Cobija,Bajo,Técnico,Otro,185,1095
+406,Potosí,Medio,Técnico,Otro,176,6283
+407,La Paz,Bajo,Universitario,Otro,156,1142
+408,El Alto,Medio,Técnico,Otro,150,3743
+409,Trinidad,Bajo,Técnico,Otro,158,1991
+410,Cochabamba,Medio,Técnico,Otro,178,3347
+411,Cochabamba,Medio,Primaria,Masculino,169,3191
+412,Santa Cruz,Medio,Técnico,Masculino,192,4329
+413,Cochabamba,Bajo,Secundaria,Masculino,195,1143
+414,Sucre,Medio,Secundaria,Femenino,171,6724
+415,El Alto,Medio,Técnico,Femenino,179,6870
+416,Cobija,Medio,Técnico,Masculino,196,3696
+417,La Paz,Medio,Postgrado,Femenino,173,6757
+418,El Alto,Alto,Postgrado,Femenino,183,10362
+419,Santa Cruz,Bajo,Técnico,Otro,155,2465
+420,Oruro,Alto,Secundaria,Femenino,184,11391
+421,Santa Cruz,Medio,Universitario,Otro,183,6340
+422,Cobija,Bajo,Secundaria,Femenino,159,1462
+423,La Paz,Bajo,Secundaria,Masculino,190,1071
+424,Oruro,Bajo,Secundaria,Masculino,173,2406
+425,El Alto,Medio,Universitario,Femenino,160,5812
+426,Santa Cruz,Bajo,Técnico,Femenino,152,1559
+427,La Paz,Alto,Técnico,Femenino,174,7993
+428,Potosí,Bajo,Secundaria,Otro,151,1126
+429,Sucre,Alto,Primaria,Masculino,160,13619
+430,Cobija,Bajo,Secundaria,Femenino,184,1852
+431,Potosí,Alto,Universitario,Otro,184,14361
+432,Potosí,Bajo,Primaria,Femenino,172,1370
+433,Oruro,Medio,Secundaria,Otro,151,4088
+434,Cobija,Medio,Universitario,Otro,200,6748
+435,El Alto,Medio,Universitario,Masculino,198,6534
+436,Cochabamba,Bajo,Universitario,Femenino,180,2520
+437,Tarija,Bajo,Técnico,Masculino,157,2583
+438,Cochabamba,Bajo,Secundaria,Masculino,151,1137
+439,Oruro,Medio,Técnico,Masculino,183,3582
+440,Trinidad,Bajo,Secundaria,Femenino,173,1513
+441,Potosí,Medio,Universitario,Femenino,177,5398
+442,Cochabamba,Medio,Universitario,Femenino,183,5883
+443,Trinidad,Alto,Técnico,Femenino,165,10445
+444,La Paz,Medio,Universitario,Masculino,185,5016
+445,Tarija,Bajo,Universitario,Femenino,173,1905
+446,Oruro,Alto,Secundaria,Otro,174,7144
+447,Trinidad,Medio,Secundaria,Femenino,159,5119
+448,El Alto,Bajo,Secundaria,Masculino,193,2251
+449,Potosí,Bajo,Técnico,Masculino,193,1994
+450,Cobija,Alto,Secundaria,Femenino,160,14541
+451,La Paz,Alto,Secundaria,Masculino,186,12438
+452,Sucre,Bajo,Secundaria,Masculino,168,2110
+453,Cochabamba,Bajo,Universitario,Masculino,152,2747
+454,Oruro,Medio,Secundaria,Masculino,169,6206
+455,Trinidad,Alto,Universitario,Otro,193,13839
+456,Oruro,Bajo,Secundaria,Otro,185,2249
+457,Trinidad,Medio,Técnico,Femenino,162,3189
+458,Tarija,Alto,Postgrado,Otro,166,10783
+459,Cochabamba,Medio,Primaria,Femenino,152,5725
+460,Tarija,Medio,Secundaria,Masculino,200,5541
+461,El Alto,Bajo,Secundaria,Femenino,200,1710
+462,El Alto,Medio,Postgrado,Masculino,193,6849
+463,Cochabamba,Bajo,Técnico,Otro,164,1314
+464,Trinidad,Bajo,Universitario,Masculino,190,2967
+465,Santa Cruz,Bajo,Universitario,Masculino,156,1744
+466,Potosí,Medio,Universitario,Otro,189,6489
+467,Oruro,Bajo,Universitario,Masculino,187,2307
+468,Cochabamba,Alto,Secundaria,Femenino,181,10845
+469,Trinidad,Medio,Universitario,Femenino,196,3919
+470,Cochabamba,Alto,Primaria,Femenino,159,14856
+471,La Paz,Medio,Secundaria,Femenino,162,6536
+472,Sucre,Alto,Primaria,Otro,165,9214
+473,Sucre,Bajo,Universitario,Otro,182,1470
+474,Trinidad,Medio,Técnico,Otro,166,4878
+475,Tarija,Medio,Universitario,Femenino,174,6271
+476,Cobija,Bajo,Universitario,Masculino,180,2436
+477,Potosí,Alto,Técnico,Otro,179,9820
+478,Tarija,Medio,Técnico,Masculino,198,3808
+479,Oruro,Bajo,Postgrado,Otro,156,1292
+480,Cobija,Medio,Universitario,Masculino,157,5687
+481,Santa Cruz,Alto,Universitario,Femenino,158,8126
+482,Oruro,Bajo,Secundaria,Femenino,164,2310
+483,Potosí,Bajo,Secundaria,Otro,194,2988
+484,La Paz,Bajo,Secundaria,Otro,186,2455
+485,El Alto,Medio,Secundaria,Masculino,157,3565
+486,Tarija,Bajo,Técnico,Masculino,157,2797
+487,Trinidad,Bajo,Secundaria,Masculino,170,1078
+488,Potosí,Bajo,Técnico,Otro,183,1960
+489,Trinidad,Medio,Secundaria,Masculino,156,3460
+490,Trinidad,Alto,Universitario,Masculino,163,11260
+491,Oruro,Medio,Técnico,Masculino,155,3116
+492,Cochabamba,Bajo,Universitario,Femenino,166,1353
+493,Santa Cruz,Medio,Secundaria,Masculino,155,4396
+494,Cochabamba,Alto,Postgrado,Femenino,200,7527
+495,El Alto,Bajo,Universitario,Masculino,154,2388
+496,Trinidad,Alto,Universitario,Femenino,188,14628
+497,Oruro,Bajo,Secundaria,Femenino,170,2728
+498,Cobija,Medio,Universitario,Otro,195,6469
+499,Cochabamba,Medio,Universitario,Otro,151,3378
+500,La Paz,Bajo,Técnico,Femenino,162,1485
+501,Cobija,Bajo,Secundaria,Otro,155,1944
+502,Santa Cruz,Alto,Técnico,Femenino,190,9370
+503,Sucre,Medio,Técnico,Otro,192,3302
+504,Sucre,Medio,Secundaria,Masculino,152,6082
+505,Cobija,Medio,Secundaria,Otro,167,3311
+506,Cobija,Alto,Secundaria,Femenino,168,13807
+507,La Paz,Medio,Secundaria,Femenino,192,3700
+508,Tarija,Medio,Universitario,Femenino,172,4852
+509,El Alto,Medio,Secundaria,Femenino,151,6576
+510,Trinidad,Bajo,Secundaria,Masculino,159,2361
+511,El Alto,Medio,Secundaria,Femenino,182,3204
+512,Cochabamba,Medio,Primaria,Femenino,170,3880
+513,El Alto,Bajo,Secundaria,Masculino,184,2553
+514,Cochabamba,Alto,Primaria,Masculino,163,10366
+515,Sucre,Bajo,Secundaria,Femenino,196,2069
+516,El Alto,Alto,Secundaria,Masculino,176,12763
+517,Santa Cruz,Bajo,Técnico,Masculino,157,2890
+518,Trinidad,Alto,Técnico,Otro,173,7419
+519,Oruro,Bajo,Técnico,Otro,156,2974
+520,Cochabamba,Bajo,Universitario,Femenino,170,2063
+521,Santa Cruz,Bajo,Postgrado,Otro,160,2701
+522,Santa Cruz,Medio,Universitario,Masculino,194,6052
+523,Potosí,Alto,Postgrado,Otro,172,14423
+524,Cobija,Medio,Técnico,Otro,174,4799
+525,Cochabamba,Bajo,Universitario,Masculino,159,2660
+526,Santa Cruz,Medio,Técnico,Femenino,178,6060
+527,Sucre,Alto,Técnico,Otro,200,14183
+528,Oruro,Bajo,Universitario,Otro,170,2006
+529,Tarija,Medio,Secundaria,Femenino,178,3068
+530,Potosí,Alto,Secundaria,Femenino,156,12910
+531,Oruro,Medio,Universitario,Otro,168,5675
+532,Oruro,Alto,Universitario,Masculino,188,10187
+533,Sucre,Bajo,Primaria,Femenino,158,1443
+534,Tarija,Medio,Técnico,Masculino,183,6332
+535,Potosí,Alto,Universitario,Masculino,178,13820
+536,Oruro,Bajo,Universitario,Masculino,173,1275
+537,Santa Cruz,Medio,Técnico,Masculino,197,5252
+538,El Alto,Medio,Secundaria,Femenino,165,4423
+539,Oruro,Bajo,Técnico,Masculino,187,1649
+540,Sucre,Bajo,Universitario,Femenino,192,1698
+541,Potosí,Medio,Técnico,Otro,194,5665
+542,Trinidad,Bajo,Técnico,Femenino,173,2518
+543,Cochabamba,Bajo,Universitario,Femenino,150,2131
+544,Sucre,Medio,Universitario,Femenino,157,4621
+545,Cochabamba,Medio,Universitario,Femenino,166,3157
+546,Trinidad,Bajo,Universitario,Femenino,156,1794
+547,Santa Cruz,Alto,Técnico,Masculino,163,7996
+548,Santa Cruz,Medio,Secundaria,Femenino,192,6632
+549,Santa Cruz,Alto,Postgrado,Femenino,164,13854
+550,La Paz,Medio,Primaria,Otro,151,4959
+551,Tarija,Alto,Secundaria,Otro,154,14123
+552,Cochabamba,Medio,Técnico,Femenino,180,4235
+553,Oruro,Alto,Universitario,Masculino,179,13249
+554,Sucre,Alto,Primaria,Masculino,179,9833
+555,Tarija,Medio,Secundaria,Femenino,196,6221
+556,Trinidad,Alto,Técnico,Masculino,186,12199
+557,Cobija,Bajo,Técnico,Masculino,169,1730
+558,Oruro,Bajo,Universitario,Femenino,198,2986
+559,Oruro,Alto,Primaria,Femenino,200,13731
+560,Santa Cruz,Bajo,Secundaria,Femenino,196,1682
+561,Cochabamba,Medio,Secundaria,Masculino,196,6150
+562,Oruro,Alto,Técnico,Femenino,160,12283
+563,El Alto,Medio,Técnico,Masculino,189,6375
+564,Santa Cruz,Bajo,Técnico,Femenino,190,2981
+565,Potosí,Medio,Postgrado,Femenino,151,4095
+566,Tarija,Medio,Técnico,Masculino,182,6838
+567,Oruro,Medio,Secundaria,Masculino,159,6682
+568,La Paz,Medio,Secundaria,Femenino,197,6707
+569,Cobija,Alto,Secundaria,Otro,186,11387
+570,El Alto,Alto,Secundaria,Femenino,180,12683
+571,Santa Cruz,Medio,Técnico,Femenino,153,6664
+572,Santa Cruz,Bajo,Técnico,Otro,200,2716
+573,El Alto,Medio,Postgrado,Otro,174,3624
+574,Potosí,Bajo,Técnico,Femenino,165,2684
+575,Cochabamba,Medio,Secundaria,Femenino,154,5050
+576,Oruro,Medio,Universitario,Femenino,151,6941
+577,Oruro,Bajo,Postgrado,Otro,196,2995
+578,El Alto,Bajo,Universitario,Masculino,199,1065
+579,El Alto,Bajo,Técnico,Masculino,186,1490
+580,Sucre,Alto,Primaria,Masculino,183,13511
+581,Oruro,Medio,Universitario,Masculino,180,6064
+582,Cochabamba,Medio,Técnico,Femenino,178,6868
+583,Cochabamba,Medio,Universitario,Femenino,193,6928
+584,Trinidad,Medio,Postgrado,Otro,152,4322
+585,Cobija,Medio,Técnico,Masculino,172,3032
+586,Cochabamba,Medio,Técnico,Masculino,183,3777
+587,La Paz,Medio,Secundaria,Masculino,169,6661
+588,Santa Cruz,Bajo,Técnico,Masculino,184,1866
+589,La Paz,Medio,Primaria,Femenino,184,3358
+590,Tarija,Alto,Técnico,Masculino,177,13859
+591,La Paz,Medio,Postgrado,Masculino,178,6024
+592,El Alto,Medio,Secundaria,Otro,186,3518
+593,Trinidad,Medio,Técnico,Otro,166,4847
+594,El Alto,Bajo,Universitario,Femenino,197,2169
+595,Oruro,Medio,Técnico,Otro,170,3173
+596,Santa Cruz,Medio,Postgrado,Otro,165,5682
+597,Oruro,Medio,Técnico,Otro,180,6571
+598,Cobija,Alto,Primaria,Femenino,166,7129
+599,El Alto,Medio,Primaria,Otro,179,6770
+600,Santa Cruz,Medio,Técnico,Femenino,194,4299
+601,Cobija,Medio,Secundaria,Femenino,176,4515
+602,Trinidad,Medio,Secundaria,Masculino,196,4092
+603,Sucre,Alto,Postgrado,Femenino,160,13408
+604,Sucre,Bajo,Primaria,Masculino,155,2848
+605,Tarija,Bajo,Primaria,Masculino,180,1443
+606,Sucre,Medio,Técnico,Femenino,155,6069
+607,El Alto,Medio,Universitario,Femenino,192,5655
+608,Cobija,Medio,Universitario,Masculino,172,4054
+609,Oruro,Medio,Secundaria,Femenino,160,4027
+610,Cochabamba,Medio,Técnico,Otro,173,3410
+611,El Alto,Bajo,Universitario,Femenino,165,2781
+612,Santa Cruz,Alto,Secundaria,Femenino,190,11568
+613,Trinidad,Alto,Técnico,Femenino,166,7194
+614,El Alto,Medio,Universitario,Masculino,152,5107
+615,El Alto,Medio,Secundaria,Femenino,158,5730
+616,La Paz,Medio,Universitario,Femenino,163,3745
+617,Potosí,Alto,Primaria,Masculino,176,9005
+618,Santa Cruz,Medio,Secundaria,Otro,191,4063
+619,Santa Cruz,Medio,Universitario,Femenino,187,6501
+620,Trinidad,Medio,Primaria,Otro,151,3255
+621,Potosí,Medio,Técnico,Masculino,153,3109
+622,Sucre,Medio,Postgrado,Masculino,177,6746
+623,Cobija,Medio,Secundaria,Otro,185,4342
+624,Oruro,Medio,Secundaria,Otro,168,4716
+625,El Alto,Alto,Secundaria,Masculino,186,7668
+626,Tarija,Alto,Técnico,Otro,160,14722
+627,Sucre,Bajo,Secundaria,Masculino,182,1563
+628,El Alto,Medio,Secundaria,Masculino,159,5308
+629,Sucre,Alto,Universitario,Otro,200,9366
+630,Santa Cruz,Medio,Postgrado,Masculino,152,4421
+631,Tarija,Medio,Secundaria,Femenino,185,4220
+632,Oruro,Medio,Primaria,Otro,170,3014
+633,Cochabamba,Medio,Universitario,Femenino,168,3467
+634,Potosí,Medio,Primaria,Masculino,151,6539
+635,Sucre,Alto,Universitario,Femenino,189,7353
+636,Cochabamba,Alto,Secundaria,Femenino,196,7996
+637,Santa Cruz,Alto,Postgrado,Masculino,184,12567
+638,Sucre,Bajo,Técnico,Femenino,171,2347
+639,Sucre,Alto,Secundaria,Masculino,177,7164
+640,Sucre,Medio,Secundaria,Masculino,181,4269
+641,Sucre,Bajo,Técnico,Otro,175,1322
+642,Sucre,Alto,Primaria,Femenino,155,9616
+643,Tarija,Medio,Secundaria,Masculino,152,4760
+644,Cochabamba,Medio,Universitario,Femenino,167,3283
+645,Santa Cruz,Medio,Universitario,Otro,190,4590
+646,Sucre,Alto,Universitario,Femenino,159,9763
+647,Oruro,Medio,Técnico,Otro,163,4008
+648,Cobija,Alto,Secundaria,Otro,185,14569
+649,Trinidad,Bajo,Secundaria,Femenino,200,1370
+650,Santa Cruz,Alto,Universitario,Femenino,170,9438
+651,Trinidad,Medio,Técnico,Masculino,194,6033
+652,Cochabamba,Medio,Técnico,Masculino,176,5471
+653,Cochabamba,Bajo,Técnico,Masculino,158,1646
+654,La Paz,Bajo,Universitario,Femenino,198,2507
+655,Santa Cruz,Medio,Universitario,Otro,150,6035
+656,Cobija,Medio,Secundaria,Otro,173,3542
+657,Sucre,Alto,Secundaria,Otro,177,10627
+658,Potosí,Alto,Universitario,Otro,167,8596
+659,Tarija,Medio,Universitario,Otro,150,5756
+660,Potosí,Medio,Universitario,Femenino,189,5995
+661,Cobija,Medio,Universitario,Femenino,188,3420
+662,Santa Cruz,Medio,Primaria,Femenino,180,3188
+663,Santa Cruz,Bajo,Universitario,Otro,152,1068
+664,Tarija,Medio,Técnico,Otro,174,5306
+665,Sucre,Medio,Primaria,Masculino,155,3379
+666,Trinidad,Bajo,Secundaria,Masculino,157,2416
+667,Potosí,Bajo,Secundaria,Femenino,195,2577
+668,Potosí,Medio,Técnico,Otro,182,5914
+669,Oruro,Medio,Primaria,Femenino,185,6576
+670,El Alto,Medio,Secundaria,Otro,151,6580
+671,Trinidad,Medio,Secundaria,Femenino,190,3285
+672,El Alto,Bajo,Primaria,Otro,174,2266
+673,Cobija,Bajo,Secundaria,Masculino,200,2622
+674,Oruro,Medio,Secundaria,Femenino,186,5072
+675,Tarija,Bajo,Universitario,Masculino,183,1528
+676,Cobija,Bajo,Técnico,Masculino,153,1954
+677,La Paz,Medio,Universitario,Masculino,178,5271
+678,Santa Cruz,Bajo,Secundaria,Femenino,164,2476
+679,Tarija,Medio,Primaria,Masculino,150,4233
+680,Trinidad,Alto,Técnico,Otro,151,12375
+681,Sucre,Bajo,Universitario,Femenino,154,2564
+682,Potosí,Medio,Primaria,Masculino,192,3854
+683,Cobija,Medio,Técnico,Otro,160,4043
+684,Oruro,Alto,Universitario,Otro,192,7997
+685,Oruro,Medio,Técnico,Femenino,175,5947
+686,Santa Cruz,Bajo,Postgrado,Masculino,167,2162
+687,Trinidad,Bajo,Secundaria,Femenino,167,2366
+688,Cochabamba,Medio,Primaria,Masculino,154,5181
+689,Cobija,Medio,Secundaria,Femenino,200,5257
+690,Sucre,Bajo,Universitario,Otro,171,1901
+691,Oruro,Bajo,Primaria,Otro,171,2623
+692,Sucre,Alto,Secundaria,Masculino,178,8519
+693,Sucre,Alto,Secundaria,Masculino,163,8076
+694,Cobija,Bajo,Universitario,Femenino,192,1453
+695,Tarija,Bajo,Secundaria,Femenino,155,1927
+696,Sucre,Medio,Técnico,Otro,198,6807
+697,El Alto,Bajo,Técnico,Otro,192,1437
+698,Tarija,Medio,Técnico,Otro,158,6457
+699,Oruro,Alto,Universitario,Otro,154,14663
+700,Santa Cruz,Medio,Secundaria,Otro,195,3278
+701,La Paz,Alto,Secundaria,Masculino,194,13340
+702,La Paz,Alto,Universitario,Masculino,199,12719
+703,Trinidad,Alto,Universitario,Otro,166,8301
+704,Oruro,Alto,Secundaria,Otro,190,13981
+705,Sucre,Bajo,Secundaria,Otro,180,2648
+706,Oruro,Bajo,Secundaria,Masculino,165,2490
+707,Tarija,Bajo,Secundaria,Otro,184,2353
+708,Santa Cruz,Alto,Universitario,Masculino,172,9802
+709,El Alto,Bajo,Técnico,Masculino,191,2979
+710,El Alto,Bajo,Técnico,Otro,173,1096
+711,La Paz,Bajo,Técnico,Masculino,160,1336
+712,Sucre,Bajo,Técnico,Masculino,165,1185
+713,Tarija,Medio,Universitario,Otro,186,6059
+714,Cobija,Medio,Secundaria,Masculino,164,4440
+715,El Alto,Bajo,Universitario,Otro,192,1982
+716,El Alto,Medio,Secundaria,Femenino,151,4742
+717,Cochabamba,Medio,Universitario,Otro,199,3608
+718,La Paz,Medio,Secundaria,Otro,195,3197
+719,Trinidad,Medio,Secundaria,Femenino,187,6809
+720,Cobija,Bajo,Técnico,Femenino,176,1126
+721,Potosí,Medio,Postgrado,Otro,151,5787
+722,El Alto,Bajo,Secundaria,Femenino,187,1474
+723,Potosí,Bajo,Universitario,Femenino,157,2163
+724,Oruro,Medio,Técnico,Femenino,200,5774
+725,Oruro,Medio,Técnico,Masculino,199,3837
+726,Oruro,Alto,Universitario,Femenino,166,12023
+727,El Alto,Medio,Secundaria,Otro,193,4832
+728,Oruro,Medio,Universitario,Femenino,183,6341
+729,Tarija,Bajo,Postgrado,Femenino,183,1088
+730,El Alto,Alto,Universitario,Masculino,156,14443
+731,Tarija,Medio,Secundaria,Otro,162,6133
+732,Tarija,Bajo,Secundaria,Femenino,163,1768
+733,Tarija,Bajo,Primaria,Femenino,170,2004
+734,La Paz,Medio,Secundaria,Femenino,193,4269
+735,Potosí,Medio,Universitario,Otro,170,4420
+736,Trinidad,Medio,Técnico,Masculino,162,3444
+737,La Paz,Medio,Técnico,Femenino,159,4771
+738,Cochabamba,Bajo,Universitario,Femenino,189,1236
+739,Cochabamba,Bajo,Primaria,Femenino,152,2043
+740,Oruro,Medio,Secundaria,Masculino,200,6268
+741,Tarija,Medio,Universitario,Masculino,153,5027
+742,El Alto,Medio,Postgrado,Otro,185,5648
+743,Potosí,Medio,Universitario,Masculino,172,4882
+744,Oruro,Bajo,Técnico,Otro,191,1887
+745,La Paz,Alto,Secundaria,Femenino,174,7446
+746,Potosí,Medio,Universitario,Masculino,188,4257
+747,El Alto,Bajo,Secundaria,Femenino,194,2733
+748,Tarija,Bajo,Universitario,Otro,199,2126
+749,La Paz,Alto,Universitario,Otro,167,13470
+750,Tarija,Medio,Técnico,Femenino,192,5056
+751,Trinidad,Medio,Postgrado,Masculino,161,5246
+752,Potosí,Medio,Secundaria,Masculino,163,4196
+753,Potosí,Bajo,Secundaria,Otro,176,1799
+754,Santa Cruz,Alto,Universitario,Masculino,167,14801
+755,Sucre,Alto,Universitario,Femenino,195,7397
+756,Potosí,Bajo,Primaria,Otro,160,1764
+757,Santa Cruz,Medio,Postgrado,Masculino,168,4360
+758,Santa Cruz,Medio,Universitario,Femenino,178,4618
+759,Trinidad,Alto,Técnico,Femenino,150,10365
+760,Santa Cruz,Alto,Universitario,Femenino,182,11944
+761,Santa Cruz,Bajo,Secundaria,Masculino,156,2151
+762,Oruro,Medio,Técnico,Masculino,158,4851
+763,Sucre,Alto,Secundaria,Otro,184,13110
+764,Santa Cruz,Alto,Secundaria,Masculino,158,7351
+765,Cobija,Medio,Secundaria,Femenino,163,4258
+766,La Paz,Medio,Secundaria,Femenino,159,3622
+767,La Paz,Alto,Técnico,Masculino,158,12927
+768,Sucre,Bajo,Técnico,Femenino,169,2758
+769,Cobija,Bajo,Técnico,Otro,156,2594
+770,El Alto,Medio,Universitario,Femenino,182,3589
+771,Cobija,Alto,Secundaria,Femenino,173,13362
+772,Sucre,Bajo,Universitario,Otro,181,1596
+773,Sucre,Medio,Primaria,Masculino,154,5584
+774,Trinidad,Alto,Postgrado,Masculino,166,8004
+775,Sucre,Medio,Técnico,Masculino,150,5800
+776,Oruro,Medio,Secundaria,Masculino,155,3519
+777,Potosí,Medio,Primaria,Femenino,155,5517
+778,Tarija,Medio,Técnico,Otro,182,4467
+779,El Alto,Bajo,Primaria,Femenino,175,2508
+780,Cochabamba,Medio,Secundaria,Otro,176,6145
+781,Tarija,Medio,Primaria,Femenino,188,4382
+782,Oruro,Medio,Postgrado,Masculino,200,5821
+783,Cobija,Bajo,Técnico,Masculino,192,2122
+784,La Paz,Alto,Técnico,Masculino,196,10374
+785,Tarija,Medio,Postgrado,Masculino,187,6504
+786,Potosí,Bajo,Secundaria,Otro,194,2661
+787,Potosí,Medio,Postgrado,Masculino,184,5396
+788,Potosí,Medio,Secundaria,Otro,155,4282
+789,Potosí,Medio,Técnico,Otro,199,4731
+790,Oruro,Bajo,Secundaria,Otro,171,2688
+791,Trinidad,Medio,Universitario,Masculino,154,6339
+792,Santa Cruz,Alto,Secundaria,Otro,188,13312
+793,Santa Cruz,Medio,Secundaria,Femenino,165,6951
+794,Santa Cruz,Medio,Universitario,Femenino,192,5842
+795,Trinidad,Bajo,Secundaria,Otro,195,1608
+796,Trinidad,Medio,Universitario,Otro,188,5308
+797,Cobija,Medio,Técnico,Masculino,200,6451
+798,Oruro,Medio,Secundaria,Femenino,200,6857
+799,Trinidad,Alto,Primaria,Otro,151,12816
+800,El Alto,Medio,Secundaria,Femenino,152,6461
+801,Cochabamba,Alto,Secundaria,Otro,184,8733
+802,Cochabamba,Bajo,Secundaria,Masculino,161,2734
+803,Potosí,Medio,Secundaria,Femenino,164,3510
+804,Sucre,Medio,Técnico,Femenino,170,3711
+805,El Alto,Medio,Técnico,Femenino,179,4178
+806,La Paz,Medio,Secundaria,Otro,154,5855
+807,Cobija,Bajo,Universitario,Otro,159,2316
+808,Santa Cruz,Bajo,Primaria,Masculino,199,1007
+809,Cobija,Alto,Universitario,Otro,174,8699
+810,Trinidad,Medio,Universitario,Masculino,165,5008
+811,Oruro,Medio,Primaria,Femenino,181,5718
+812,Cochabamba,Bajo,Postgrado,Otro,164,1576
+813,Santa Cruz,Alto,Secundaria,Otro,193,14732
+814,La Paz,Medio,Universitario,Masculino,196,5274
+815,Santa Cruz,Bajo,Primaria,Masculino,165,2104
+816,Potosí,Medio,Universitario,Femenino,172,3549
+817,Trinidad,Alto,Postgrado,Masculino,187,7401
+818,Cochabamba,Medio,Secundaria,Otro,154,6108
+819,Oruro,Bajo,Universitario,Masculino,177,2234
+820,Cochabamba,Medio,Postgrado,Masculino,150,3815
+821,Trinidad,Bajo,Postgrado,Otro,183,1925
+822,La Paz,Medio,Secundaria,Otro,187,4475
+823,Cochabamba,Bajo,Secundaria,Otro,156,1139
+824,El Alto,Medio,Universitario,Masculino,176,6690
+825,El Alto,Medio,Universitario,Femenino,174,5530
+826,Cobija,Alto,Técnico,Otro,187,10625
+827,Santa Cruz,Alto,Secundaria,Masculino,150,11756
+828,Santa Cruz,Alto,Técnico,Masculino,165,8095
+829,Santa Cruz,Medio,Secundaria,Otro,156,6264
+830,Cobija,Medio,Secundaria,Otro,172,3621
+831,Trinidad,Bajo,Universitario,Femenino,162,1825
+832,La Paz,Bajo,Técnico,Masculino,170,1626
+833,Cochabamba,Bajo,Universitario,Masculino,180,2875
+834,Potosí,Bajo,Técnico,Masculino,163,1206
+835,El Alto,Medio,Técnico,Otro,166,5233
+836,El Alto,Alto,Secundaria,Femenino,168,10353
+837,Oruro,Medio,Secundaria,Femenino,190,6487
+838,El Alto,Alto,Universitario,Otro,185,10667
+839,Cochabamba,Medio,Postgrado,Femenino,165,6851
+840,Cochabamba,Bajo,Universitario,Femenino,171,1659
+841,Trinidad,Bajo,Técnico,Femenino,177,2726
+842,Tarija,Medio,Postgrado,Otro,177,5094
+843,Potosí,Bajo,Secundaria,Masculino,186,1734
+844,Cochabamba,Bajo,Postgrado,Masculino,168,1429
+845,Oruro,Medio,Secundaria,Masculino,152,3065
+846,Santa Cruz,Alto,Universitario,Masculino,159,12248
+847,Tarija,Medio,Universitario,Masculino,196,6755
+848,El Alto,Medio,Universitario,Masculino,196,4596
+849,El Alto,Medio,Universitario,Femenino,180,6491
+850,Oruro,Alto,Secundaria,Masculino,172,11048
+851,La Paz,Bajo,Secundaria,Masculino,194,2291
+852,Oruro,Medio,Técnico,Otro,163,3421
+853,La Paz,Alto,Secundaria,Masculino,157,10673
+854,Potosí,Bajo,Universitario,Otro,156,2088
+855,Oruro,Medio,Universitario,Otro,171,4368
+856,La Paz,Bajo,Secundaria,Femenino,159,2719
+857,Sucre,Medio,Universitario,Otro,161,4954
+858,Tarija,Medio,Postgrado,Femenino,187,5596
+859,Potosí,Medio,Técnico,Femenino,195,5146
+860,Santa Cruz,Alto,Universitario,Femenino,177,12172
+861,Sucre,Medio,Secundaria,Masculino,177,6507
+862,Santa Cruz,Alto,Universitario,Femenino,177,8521
+863,Potosí,Alto,Universitario,Masculino,169,12781
+864,Potosí,Medio,Secundaria,Masculino,194,6699
+865,Potosí,Medio,Secundaria,Femenino,181,4746
+866,El Alto,Medio,Secundaria,Masculino,170,4051
+867,Trinidad,Alto,Universitario,Otro,162,13089
+868,Cochabamba,Alto,Primaria,Femenino,165,8298
+869,Cobija,Medio,Secundaria,Otro,160,4230
+870,Trinidad,Bajo,Técnico,Masculino,152,1119
+871,Santa Cruz,Bajo,Secundaria,Otro,179,1574
+872,Cochabamba,Medio,Secundaria,Masculino,174,6930
+873,Trinidad,Alto,Universitario,Femenino,150,9268
+874,Tarija,Alto,Universitario,Masculino,155,7865
+875,Tarija,Medio,Universitario,Otro,195,5096
+876,Santa Cruz,Alto,Secundaria,Femenino,193,9464
+877,Cochabamba,Medio,Universitario,Masculino,151,5379
+878,El Alto,Alto,Secundaria,Masculino,157,10494
+879,La Paz,Medio,Postgrado,Masculino,159,4184
+880,Santa Cruz,Medio,Técnico,Masculino,182,3893
+881,Trinidad,Medio,Universitario,Otro,195,6181
+882,Santa Cruz,Medio,Universitario,Masculino,195,5783
+883,Oruro,Bajo,Técnico,Masculino,160,1800
+884,Cobija,Medio,Secundaria,Otro,169,4421
+885,Trinidad,Medio,Secundaria,Masculino,173,5217
+886,El Alto,Medio,Secundaria,Masculino,174,6143
+887,Cobija,Medio,Técnico,Femenino,195,6547
+888,Cobija,Bajo,Secundaria,Femenino,176,1000
+889,Santa Cruz,Alto,Primaria,Masculino,154,11428
+890,La Paz,Bajo,Universitario,Otro,170,1307
+891,Cochabamba,Alto,Universitario,Otro,185,11227
+892,La Paz,Bajo,Secundaria,Otro,198,2081
+893,Santa Cruz,Alto,Primaria,Femenino,161,7858
+894,Cochabamba,Medio,Primaria,Masculino,180,3654
+895,Potosí,Medio,Secundaria,Femenino,175,6036
+896,La Paz,Medio,Secundaria,Femenino,186,4401
+897,Cobija,Bajo,Postgrado,Masculino,195,2795
+898,Trinidad,Bajo,Postgrado,Masculino,151,1778
+899,Cobija,Medio,Técnico,Masculino,168,5603
+900,Cobija,Medio,Secundaria,Femenino,168,4372
+901,Santa Cruz,Medio,Secundaria,Masculino,169,4990
+902,Trinidad,Alto,Técnico,Femenino,161,13309
+903,Cochabamba,Medio,Primaria,Femenino,161,5495
+904,Trinidad,Medio,Postgrado,Otro,188,6607
+905,Oruro,Alto,Primaria,Otro,150,10548
+906,Potosí,Bajo,Universitario,Otro,180,2484
+907,Oruro,Bajo,Universitario,Femenino,195,2021
+908,Trinidad,Alto,Secundaria,Masculino,168,10539
+909,Sucre,Bajo,Primaria,Femenino,155,1924
+910,Trinidad,Medio,Universitario,Masculino,158,3477
+911,El Alto,Bajo,Primaria,Femenino,183,2199
+912,La Paz,Medio,Técnico,Otro,150,3700
+913,Tarija,Medio,Universitario,Femenino,187,5894
+914,Cochabamba,Alto,Técnico,Masculino,180,11117
+915,Santa Cruz,Alto,Técnico,Masculino,176,13484
+916,Santa Cruz,Bajo,Universitario,Otro,199,2391
+917,La Paz,Medio,Secundaria,Femenino,156,3170
+918,Oruro,Medio,Secundaria,Masculino,192,6127
+919,El Alto,Medio,Secundaria,Femenino,188,4597
+920,Santa Cruz,Bajo,Secundaria,Otro,181,2774
+921,Santa Cruz,Bajo,Técnico,Masculino,187,2153
+922,Potosí,Medio,Universitario,Masculino,157,5184
+923,La Paz,Medio,Postgrado,Femenino,181,4305
+924,Santa Cruz,Medio,Secundaria,Masculino,197,5537
+925,Tarija,Medio,Técnico,Femenino,197,3254
+926,El Alto,Bajo,Universitario,Otro,151,1346
+927,El Alto,Bajo,Secundaria,Masculino,182,2329
+928,Potosí,Alto,Secundaria,Femenino,164,11061
+929,Oruro,Medio,Postgrado,Femenino,181,5579
+930,Santa Cruz,Bajo,Universitario,Masculino,188,1387
+931,Santa Cruz,Bajo,Primaria,Femenino,194,1982
+932,Trinidad,Bajo,Postgrado,Femenino,161,2060
+933,Cobija,Medio,Secundaria,Masculino,194,6786
+934,La Paz,Medio,Postgrado,Femenino,161,6451
+935,Potosí,Alto,Postgrado,Otro,174,12039
+936,Oruro,Medio,Secundaria,Otro,162,4354
+937,La Paz,Medio,Técnico,Femenino,178,3140
+938,Cochabamba,Alto,Secundaria,Femenino,161,13868
+939,El Alto,Bajo,Técnico,Femenino,158,2069
+940,Oruro,Bajo,Universitario,Masculino,190,1695
+941,Cobija,Medio,Secundaria,Femenino,193,3266
+942,Potosí,Medio,Universitario,Masculino,156,3119
+943,Oruro,Alto,Secundaria,Otro,168,12578
+944,Potosí,Bajo,Técnico,Femenino,189,1769
+945,Santa Cruz,Bajo,Primaria,Masculino,174,1426
+946,Trinidad,Medio,Postgrado,Femenino,174,4195
+947,Trinidad,Medio,Primaria,Femenino,191,5796
+948,La Paz,Medio,Postgrado,Otro,188,5742
+949,Santa Cruz,Medio,Universitario,Femenino,173,6775
+950,Oruro,Alto,Secundaria,Otro,160,13060
+951,Sucre,Medio,Universitario,Masculino,191,4686
+952,Cobija,Medio,Universitario,Femenino,187,3606
+953,Tarija,Bajo,Técnico,Masculino,169,1953
+954,Trinidad,Bajo,Postgrado,Otro,199,2055
+955,Tarija,Alto,Universitario,Femenino,200,8738
+956,Cobija,Bajo,Universitario,Femenino,193,2571
+957,Cochabamba,Bajo,Secundaria,Otro,161,1739
+958,Cobija,Bajo,Secundaria,Otro,159,2565
+959,El Alto,Bajo,Secundaria,Masculino,186,2958
+960,Santa Cruz,Alto,Técnico,Otro,189,13792
+961,Santa Cruz,Alto,Primaria,Femenino,151,9987
+962,Cochabamba,Medio,Universitario,Otro,156,3685
+963,Oruro,Medio,Técnico,Otro,200,6773
+964,Cobija,Medio,Secundaria,Masculino,174,6891
+965,Cobija,Bajo,Secundaria,Femenino,177,2335
+966,Tarija,Medio,Secundaria,Masculino,164,5934
+967,Cochabamba,Medio,Universitario,Otro,177,6107
+968,Oruro,Medio,Secundaria,Femenino,175,4059
+969,La Paz,Medio,Secundaria,Femenino,195,6565
+970,Potosí,Medio,Técnico,Masculino,184,3413
+971,Oruro,Medio,Universitario,Otro,171,4127
+972,Tarija,Bajo,Secundaria,Otro,180,2176
+973,Trinidad,Medio,Técnico,Otro,155,6708
+974,Trinidad,Medio,Técnico,Masculino,183,3382
+975,Santa Cruz,Bajo,Universitario,Femenino,171,2232
+976,Potosí,Medio,Universitario,Femenino,155,6274
+977,Santa Cruz,Bajo,Postgrado,Otro,177,2876
+978,Sucre,Medio,Técnico,Otro,170,6272
+979,Cobija,Medio,Técnico,Otro,151,6651
+980,Cobija,Bajo,Primaria,Masculino,185,2679
+981,Tarija,Bajo,Técnico,Femenino,197,1653
+982,Tarija,Medio,Universitario,Otro,181,5427
+983,Sucre,Medio,Primaria,Femenino,168,3795
+984,Sucre,Bajo,Técnico,Femenino,159,1239
+985,Cochabamba,Medio,Secundaria,Femenino,161,6714
+986,El Alto,Medio,Técnico,Femenino,171,5162
+987,Oruro,Medio,Secundaria,Femenino,173,3673
+988,Cobija,Alto,Primaria,Otro,159,9054
+989,Potosí,Alto,Universitario,Femenino,164,11813
+990,Cochabamba,Bajo,Secundaria,Femenino,199,1039
+991,Potosí,Bajo,Universitario,Femenino,171,1263
+992,Trinidad,Bajo,Secundaria,Otro,200,1606
+993,Santa Cruz,Medio,Universitario,Femenino,193,4639
+994,Sucre,Alto,Universitario,Masculino,177,9764
+995,Santa Cruz,Medio,Postgrado,Masculino,164,3050
+996,Oruro,Bajo,Primaria,Masculino,158,1614
+997,El Alto,Medio,Universitario,Femenino,160,3730
+998,Tarija,Bajo,Secundaria,Otro,179,1017
+999,Potosí,Medio,Secundaria,Femenino,160,5881
+1000,La Paz,Medio,Postgrado,Femenino,150,3593
